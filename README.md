@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Bekjan555/Bekjan555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bekjan555&layout=compact&hide_border=true)](https://github.com/Bekjan555) [<img alt="Bekjan555's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bekjan555&show_icons=true&hide_border=true">](https://github.com/Bekjan555)
 
 Here are some ideas to get you started:
 
